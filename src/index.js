@@ -1,4 +1,4 @@
-import React, { Children } from "react";
+import React from "react";
 import ReactDom from "react-dom";
 import { data } from "./books"; // named export/import
 import SpecificBook from "./Book"; // default export/import : can be renamed as SpecificBook for example
